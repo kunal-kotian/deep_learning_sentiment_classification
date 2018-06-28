@@ -1,3 +1,5 @@
+# File taken from USF's NLP coursework by Prof. Brian Spiering
+
 import matplotlib.pyplot as plt
 import numpy as np
 
